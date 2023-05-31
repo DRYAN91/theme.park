@@ -13,4 +13,4 @@ let custom_text_header = `
 /_/ /_/\\____/____/\\__/_/   \\____/_/ /_/ /_/\\____/_/_/_/ /_/_/|_|  
                                                                  </pre> </div>
 `;
-document.getElementById("login").innerHTML += custom_text_header
+document.getElementById("login").innerHTML += BLACKBEARD
